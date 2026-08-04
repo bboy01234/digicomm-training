@@ -88,3 +88,8 @@ Compiler Directives:-
 	5. 	`ifdef,undef,elsif,endif,etc.
 Link:- https://www.edaplayground.com/x/SDe6
 ----------------------------------------------------------------------------------------------------------
+[SV_training_day12]:
+link: https://www.edaplayground.com/x/GC9q
+Topics Covered: . Type of fork-joins.
+				. Use of wait fork, disable and nested forks.
+				. use of process class in the threads.
