@@ -90,6 +90,21 @@ Link:- https://www.edaplayground.com/x/SDe6
 ----------------------------------------------------------------------------------------------------------
 [SV_training_day12]:
 link: https://www.edaplayground.com/x/GC9q
-Topics Covered: . Type of fork-joins.
-				. Use of wait fork, disable and nested forks.
-				. use of process class in the threads.
+Topics Covered:
+- fork join_none inside loop and vice versa.
+- nested fork-join blocks.
+- wait fork and disable fork.
+- fork-joins block conversion.
+- Process datatype.
+------------------------------------------------------------------------------------------------------------
+[SV_training_day13]:
+link:-https://www.edaplayground.com/x/8HF5
+Topics Covered:
+- call task inside a function.
+- static and automatic(variables and functions)
+- function return type and input args as class and arrays.
+- function calling itself inside input args.
+- factorial function/recursive function.
+- Declare a task inside static and automatic function.
+- class inside same class.
+-----------------------------------------------------------------------------------------------------------
