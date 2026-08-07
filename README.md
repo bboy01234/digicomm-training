@@ -104,7 +104,6 @@ Topics Covered:
 - Process datatype.
 ------------------------------------------------------------------------------------------------------------
 [SV_training_day13]:
-link:-https://www.edaplayground.com/x/8HF5
 Topics Covered:
 - call task inside a function.
 - static and automatic(variables and functions)
@@ -112,5 +111,6 @@ Topics Covered:
 - function calling itself inside input args.
 - factorial function/recursive function.
 - Declare a task inside static and automatic function.
+link:-https://www.edaplayground.com/x/8HF5
 - class inside same class.
 -----------------------------------------------------------------------------------------------------------
