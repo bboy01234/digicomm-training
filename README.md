@@ -38,12 +38,13 @@ Link:- https://www.edaplayground.com/x/PEXb
 Link:- https://www.edaplayground.com/x/JfUn
 --------------------------------------------------------------------------------------------
 [SV_training_day6]
-**Topics Covered:-**  1) Class datatype.
-											2) new constructor in class
-											3) extern function in SV and its uses
-											4) Writing two classes in each and trying to access the values.
-											5) Handle assignment to two different classes
-											6) parameterised Classes and Scope description.
+**Topics Covered:-**  
+- Class datatype.
+- new constructor in class
+- extern function in SV and its uses
+- Writing two classes in each and trying to access the values.
+- Handle assignment to two different classes
+- parameterised Classes and Scope description.
 Link:- https://www.edaplayground.com/x/g6L6
 --------------------------------------------------------------------------------------------------------
 [SV_training_day7]
