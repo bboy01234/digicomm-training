@@ -18,13 +18,13 @@ Link:- https://www.edaplayground.com/x/cXvf
 [SV_training_day4]
 **Topics Covered:-**  
 - Struct and unions with typedef
--  Various Loops in SV.
--   Break and Continue statements used cases
--   Various Types of arrays
--   Packed and Unpacked arrays
--   Swapping 5 elements of a dynamic array.
--   Swapping of set of 5 elements of a dynamic arrays containing 100 elements
--   Multi-Dimensional Arrays.
+- Various Loops in SV.
+- Break and Continue statements used cases
+- Various Types of arrays
+- Packed and Unpacked arrays
+- Swapping 5 elements of a dynamic array.
+- Swapping of set of 5 elements of a dynamic arrays containing 100 elements
+- Multi-Dimensional Arrays.
 Link:- https://www.edaplayground.com/x/PEXb
 --------------------------------------------------------------------------------------------------------
 [SV_training_day5]
