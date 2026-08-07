@@ -65,11 +65,10 @@ Link:- https://www.edaplayground.com/x/gGPC
 --------------------------------------------------------------------------------------------------------
 [SV_training_day9]
 **Topics Covered:**
-1) Abstract Class.
-2) System task for reading arrays
-3) Bit streaming operator
-4) Various operator such as bit stream, modulus operator, relation, equality, and so on present in SV
-
+- Abstract Class.
+- System task for reading arrays
+- Bit streaming operator
+- Various operator such as bit stream, modulus operator, relation, equality, and so on present in SV.
 **Some programmes of operators has been overridden!!!**
 Link:- https://www.edaplayground.com/x/Q6ud
 -----------------------------------------------------------------------------------------------------
