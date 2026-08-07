@@ -1,4 +1,4 @@
-**[SV_training_day2]
+[SV_training_day2]
 **Topics Covered:-** 
 - Data types.
 - 4 state to 2 state conversion
@@ -8,10 +8,11 @@
 Link:- https://www.edaplayground.com/x/LeiB 
 ----------------------------------------------------------------------------------------
 [SV_training_day3] 
-**Topics Covered:-**  1) User Defined datatype.
-									    2) Struct and Unions
-									    3) Packed and Unpacked(Struct and Unions)
-									    4) Tagged Union
+**Topics Covered:-**  
+- User Defined datatype.
+- Struct and Unions
+- Packed and Unpacked(Struct and Unions)
+- Tagged Union
 Link:- https://www.edaplayground.com/x/cXvf
 ----------------------------------------------------------------------------------------
 [SV_training_day4]
