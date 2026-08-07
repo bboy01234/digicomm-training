@@ -1,9 +1,10 @@
-[SV_training_day2]
-**Topics Covered:-**  1) Data types.
-										  2) 4 state to 2 state conversion
-										  3) integer slicing
-										  4) Casting: static and Dynamic
-											5) Multi dimensional arrays
+**[SV_training_day2]
+**Topics Covered:-** 
+- Data types.
+- 4 state to 2 state conversion
+- integer slicing
+- Casting: static and Dynamic
+- Multi dimensional arrays
 Link:- https://www.edaplayground.com/x/LeiB 
 ----------------------------------------------------------------------------------------
 [SV_training_day3] 
