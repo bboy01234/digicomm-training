@@ -85,15 +85,15 @@ Link:- https://www.edaplayground.com/x/uxmX
 [SV_training_day11]
 **Topics Covered:**
 Compiler Directives:-
-	1. 	`timescale
-	2. 	$time,$realtime and $stime
-	3. 	`include
-	4. 	`define and its types
-	5. 	`ifdef,undef,elsif,endif,etc.
+- timescale
+- $time,$realtime and $stime
+- `include
+- `define and its types
+- `ifdef,undef,elsif,endif,etc.
 Link:- https://www.edaplayground.com/x/SDe6
 ----------------------------------------------------------------------------------------------------------
 [SV_training_day12]:
-link: https://www.edaplayground.com/x/GC9q
+link: https:-//www.edaplayground.com/x/GC9q
 Topics Covered:
 - fork join_none inside loop and vice versa.
 - nested fork-join blocks.
