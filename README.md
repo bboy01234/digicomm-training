@@ -28,12 +28,13 @@ Link:- https://www.edaplayground.com/x/cXvf
 Link:- https://www.edaplayground.com/x/PEXb
 --------------------------------------------------------------------------------------------------------
 [SV_training_day5]
-**Topics Covered:-**  1) Arrays Methods
-											2) Dynamic arrays(2d,3d,4d) using packed and unpacked.
-											3) Queue(Bounded and Unbounded Queue)
-											4) Associative Arrays.
-											4) Exists methods in associatuvce arrays.
-											5) Combination of dynamic, queue and associative arrays in 2d/3d form.
+**Topics Covered:-**  
+- Arrays Methods
+- Dynamic arrays(2d,3d,4d) using packed and unpacked.
+- Queue(Bounded and Unbounded Queue)
+- Associative Arrays.
+- Exists methods in associative arrays.
+- Combination of dynamic, queue and associative arrays in 2d/3d form.
 Link:- https://www.edaplayground.com/x/JfUn
 --------------------------------------------------------------------------------------------
 [SV_training_day6]
