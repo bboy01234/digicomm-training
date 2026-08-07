@@ -48,17 +48,19 @@ Link:- https://www.edaplayground.com/x/JfUn
 Link:- https://www.edaplayground.com/x/g6L6
 --------------------------------------------------------------------------------------------------------
 [SV_training_day7]
-**Topics Covered:-** 1) Pushing data into class using same class handle.
-											2) Parameterised base agent and agent class allocation
-											3) Bit Slicing Operator in SV.
+**Topics Covered:-** 
+- Pushing data into class using same class handle.
+- Parameterised base agent and agent class allocation
+- Bit Slicing Operator in SV.
 Link:- https://www.edaplayground.com/x/jvR6
 -------------------------------------------------------------------------------------------------------
 [SV_training_day8]
-**Topics Covered:-** 1) Casting Examples.
-                 2) Examples on local,super,protected and virtual keywords
-                 3) Mulit-level inheritence mixing with polymorphism.
-                 4) polymorphism examples.
-                 5) using of this and super keywords.
+**Topics Covered:-** 
+- Casting Examples.
+- Examples on local,super,protected and virtual keywords
+- Mulit-level inheritence mixing with polymorphism.
+- polymorphism examples.
+- using of this and super keywords.
 Link:- https://www.edaplayground.com/x/gGPC
 --------------------------------------------------------------------------------------------------------
 [SV_training_day9]
