@@ -114,3 +114,21 @@ Topics Covered:
 - class inside same class.
 link:-https://www.edaplayground.com/x/8HF5
 -----------------------------------------------------------------------------------------------------------
+[SV_training_day14]:
+link:https://www.edaplayground.com/x/vnBT
+Topics Covered:-
+- soft constraints and its various examples.
+-----------------------------------------------------------------------------------------------------------
+Date:- 31aug-2 september
+Topics covered:- 
+- Daily 5 Questions on constraints.
+- Studied assertions, replication operator, Timining window
+link:- https://www.edaplayground.com/x/gw6i
+-----------------------------------------------------------------------------------------------------------
+Date:- 3 september
+Topics Covered:- 
+- Chapter 3 of LRM of SV includes details about such as modules, program, checkers, primitives, sub-routines,
+  packages, configurations, comiplation unit, compilation scope unit, $unit, namespace, simulation time unit and precision
+  global precision time.
+- Studied AXI protocol includes basics, timing diagrams, signal description and handshaking and channel dependency.
+- practice 5 question on constraints and assertions.
