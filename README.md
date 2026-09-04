@@ -131,3 +131,10 @@ Topics Covered:-
   packages, configurations, comiplation unit, compilation scope unit, $unit, namespace, simulation time unit and precision
   global precision time.
 - Studied AXI protocol includes basics, timing diagrams, signal description and handshaking and channel dependency.
+**-----------------------------------------------------------------------------------------------------------------------
+Date:- 4 september
+Topics Covered:-
+- 5 Questions on Constraints.
+- 2 questions on assertions.
+- Read 4th chapter of LRM.
+- Transaction of AXI topic.
