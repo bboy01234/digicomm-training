@@ -137,4 +137,3 @@ Topics Covered:-
 - 5 Questions on Constraints.
 - 2 questions on assertions.
 - Read 4th chapter of LRM.
-- Transaction of AXI topic.
