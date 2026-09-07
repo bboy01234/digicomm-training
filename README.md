@@ -141,4 +141,5 @@ Topics Covered:-
 Date:- 7 september
 Topics Covered:- 
 - Daily 5 questions on constraints and 2 questions on assertions.
-- 
+- Chapter 4 of SV LRM.
+- Transaction Structure topic of AXI.
