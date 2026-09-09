@@ -143,3 +143,16 @@ Topics Covered:-
 - Daily 5 questions on constraints and 2 questions on assertions.
 - Chapter 4 of SV LRM.
 - Transaction Structure topic of AXI.
+-------------------------------------------------------------------------------------------------------------------------
+Date:- 8th september
+Topics Covered:-
+- Daily 5 question on constraints.
+- daily two questions on assertions.
+- Chapter 4 LRM.
+------------------------------------------------------------------------------------------------------------------------
+Date:- 9th spetember
+- Daily 5 questions on constraints
+- Daily 2 questions on assertions.
+- Chapter 4 LRM
+- AXI txn Structure.
+  
