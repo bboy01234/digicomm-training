@@ -150,9 +150,11 @@ Topics Covered:-
 - daily two questions on assertions.
 - Chapter 4 LRM.
 ------------------------------------------------------------------------------------------------------------------------
-Date:- 9th spetember
-- Daily 5 questions on constraints
+Date:- 9th September
 - Daily 2 questions on assertions.
-- Chapter 4 LRM
-- AXI txn Structure.
+------------------------------------------------------------------------------------------------------------------------
+Date:- 11th september
+- 5 constraints questions
+- 2 assertions questions.
+- 
   
